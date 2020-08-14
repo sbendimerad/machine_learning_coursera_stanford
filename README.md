@@ -1,2 +1,2 @@
-# Machine Learning (Coursera)
-Solution to SOME programming assignments of Machine-Learning class taught by Andrew Ng.
+# Machine Learning (Andrew Ng Classes)
+Solution to some programming assignments of Machine-Learning class taught by Andrew Ng.
